@@ -1,0 +1,8 @@
+code.execute {
+  display: block;
+  margin-bottom: 2px;
+}
+code.execute:hover {
+  cursor: pointer;
+  background-color: #eee;
+}

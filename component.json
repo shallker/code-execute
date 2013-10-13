@@ -1,0 +1,20 @@
+{
+  "name": "code-execute",
+  "repo": "shallker/code-execute",
+  "description": "code tag text execution",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"  
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/code-execute.js"
+  ],
+  "styles": [
+    "css/code-execute.css"
+  ]
+}

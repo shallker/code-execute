@@ -1,0 +1,14 @@
+doctype 5
+html(lang="en")
+  head
+    title Test
+    meta(charset="utf-8")
+    link(rel="stylesheet", href="../build/build.css")
+
+  body
+    .code alert('hi')
+    code.execute alert('ho')
+
+    script(src="../build/build.js")
+    script
+      require('code-execute')('.code');
