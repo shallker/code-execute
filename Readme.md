@@ -9,6 +9,13 @@
 
     $ component install shallker/code-execute
 
+## Test
+http://shallker.github.io/code-execute/test   
+
+
+## Todo
+- remove jQuery dependency
+
 ## License
 
   MIT
